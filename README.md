@@ -11,6 +11,7 @@ Font-end developer from Cordoba, Argentina.
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 [![Angular](https://img.shields.io/badge/-Angular-EF2A11?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/-TypeScript-0169E8?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 
